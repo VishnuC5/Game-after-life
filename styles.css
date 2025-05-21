@@ -1,0 +1,36 @@
+/* 1. Reset/Normalize */
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Prevents scrollbars from appearing due to full-screen canvas */
+    height: 100%;
+    width: 100%;
+}
+
+/* 2. CSS Custom Properties (variables) */
+/* (No custom properties currently used) */
+
+/* 3. Base styles */
+body, html {
+    background-color: #0d1117; /* GitHub dark background */
+    font-family: sans-serif; /* Basic font for potential future text elements */
+}
+
+canvas {
+    display: block; /* Removes extra space below the canvas if it were inline */
+}
+
+/* 4. Layout/Grid */
+/* (Layout is primarily handled by body/html full screen and canvas display:block) */
+
+/* 5. Components */
+/* (No specific components defined) */
+
+/* 6. Utilities */
+/* (No utility classes defined) */
+
+/* 7. Media queries */
+/* (No media queries currently needed as canvas resizes via JavaScript) */
+
+/* 8. Print styles */
+/* (No print styles defined) */
