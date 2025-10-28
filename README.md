@@ -1,5 +1,7 @@
 # Build Conway's Game of Life with GitHub Copilot
 
+Cualquier cosa
+
 This repository contains a companion walkthrough to the video on
 [Using GitHub Copilot to create Conway's Game of Life][youtube-video].
 You can follow the steps in this repository to achieve a similar result to the video.
