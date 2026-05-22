@@ -3,7 +3,7 @@
 | [← Copilot Edits][walkthrough-previous] | [Next: Slash Commands →][walkthrough-next] |
 |:----------------------------------------|------------------------------------------:|
 
-## Improving Code Readability
+## Improving Code Readability --------------------------------------
 
 Now let's complete another common development task, refactoring our code to 
 improve readability! 
